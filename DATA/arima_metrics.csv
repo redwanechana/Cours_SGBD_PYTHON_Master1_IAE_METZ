@@ -1,0 +1,2 @@
+Model,MAE,RMSE,MAPE
+"ARIMA(5,1,0)",28.76,36.4,13.15
